@@ -96,20 +96,13 @@ body {
             color: #808080;
         }
 
-
-
-
-
-
-
-
     .principal {
         display: flex;
-    width: 80%;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    border-left: 1px solid lightgray;
+        width: 80%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border-left: 1px solid lightgray;
     }
         .principal img {
             width: 300px;
